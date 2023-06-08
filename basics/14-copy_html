@@ -1,2 +1,2 @@
 #!/bin/bash
-mv --backup -n -u -v {*html} ./
+cp -u -t .html ./
