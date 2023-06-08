@@ -1,0 +1,2 @@
+#!/bin/root
+link OPTIONS /bin/lS __ls__
