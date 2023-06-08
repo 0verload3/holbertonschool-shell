@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ~ | ls -R
+ls -a -l * .. /boot
