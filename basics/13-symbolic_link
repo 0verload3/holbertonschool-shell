@@ -1,2 +1,2 @@
 #!/bin/bash
-link OPTIONS /bin/lS __ls__
+link OPTION __ls__
