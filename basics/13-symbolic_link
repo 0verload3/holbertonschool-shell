@@ -1,2 +1,2 @@
-#!/bin/root
+#!/bin/bash
 link OPTIONS /bin/lS __ls__
