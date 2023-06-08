@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -n -u -v *.html ./ 
+file /tmp/iamafile
