@@ -1,2 +1,2 @@
 #!/bin/bash
-find chmod -exec a+x 
+find chmod -exec chmod a+x 
