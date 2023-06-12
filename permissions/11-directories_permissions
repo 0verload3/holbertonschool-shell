@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -Rv 755
+chmod -Rv 'uoga*[755]'
