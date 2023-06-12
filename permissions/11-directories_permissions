@@ -1,2 +1,2 @@
 #!/bin/bash
-find search='chmod' -exec chmod a+x 
+chmod -R +x 
