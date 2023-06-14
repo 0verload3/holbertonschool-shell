@@ -1,2 +1,2 @@
 #!/bin/bash
-tail +10 iacta| sort -g | uniq -d
+tails +10 iacta | head -10 | cut --fields:lines
