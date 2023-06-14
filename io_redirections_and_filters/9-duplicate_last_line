@@ -1,2 +1,2 @@
 #!/bin/bash
-tail +10 iacta | head -10 | uniq -d iacta
+tail +10 iacta | head -10 | cat iacta
