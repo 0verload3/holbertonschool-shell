@@ -1,2 +1,3 @@
 #!/bin/bash
-tails +10 iacta | head -10 | cut --fields:lines
+tails +10 iacta | head -10 
+
