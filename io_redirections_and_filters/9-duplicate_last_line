@@ -1,2 +1,2 @@
 #!/bin/bash
-tail +1 iacta | head -9 >> 
+tail +9 iacta | head -9 | echo >> iacta 
