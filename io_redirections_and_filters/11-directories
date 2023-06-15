@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -dAc
+ls -An
