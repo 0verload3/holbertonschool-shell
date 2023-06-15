@@ -1,2 +1,2 @@
 #!/bin/bash
-find -H root /etc/passwd
+find -l root /etc/passwd
