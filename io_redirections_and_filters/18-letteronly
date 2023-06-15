@@ -1,2 +1,2 @@
 #!/bin/bash
-grep --include=[:upper:] /etc/ssh/sshd_config
+grep --include=^[:upper:]^[:lower:] /etc/ssh/sshd_config
