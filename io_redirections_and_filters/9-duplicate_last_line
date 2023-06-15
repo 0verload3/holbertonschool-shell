@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 iaicta | tail +1 | echo >> "iacta"
+tail +1 iaicta | echo >> "iacta"
