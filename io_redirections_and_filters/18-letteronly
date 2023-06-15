@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -e [[:letter:]] --include=[:upper:] /etc/ssh/sshd_config
+grep --include=[:upper:] /etc/ssh/sshd_config
