@@ -1,0 +1,2 @@
+#!/bin/bash
+find -print0 -name=root /etc/passwd
