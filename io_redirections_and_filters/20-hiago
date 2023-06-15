@@ -1,2 +1,2 @@
 #!/bin/bash
-lr -d cC
+lr -d "cC"
