@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f | tails -n 10
+find . -newer -type f -ls
