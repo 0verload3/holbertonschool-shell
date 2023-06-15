@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -fn 10 .
+find . -type f | tails -n 10
