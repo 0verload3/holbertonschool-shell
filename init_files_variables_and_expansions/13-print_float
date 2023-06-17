@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e \xHH "$NUM"
+echo -e \x$NUM
