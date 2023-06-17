@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((DECIMAL*1**16))
+echo "%x\n" $DECIMAL
